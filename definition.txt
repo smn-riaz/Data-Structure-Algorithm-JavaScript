@@ -1,11 +1,14 @@
 // An algorithm is a set of well-defined instructions to solve a particular problem.
 
+
 // There are many ways to solve one problem
+
 
 // We evaluate the performance of an algorithm in terms of its input size
 
 
 // Time complexity : Amount of time taken by an algorithm to run, as a function of input size
+
 
 // Space complexity : Amount of memory taken by an algorithm to run, as a function of input size
 
@@ -14,6 +17,7 @@
 // 1. Big - O Notation (O-notation) - worst case complexity
 // 2. Omeega Notation - Best complexity
 // 3. Theta Notation - Average case complexity
+
 
 
 // Big - O notation describes the complexity of an algorithm using algebraic terms

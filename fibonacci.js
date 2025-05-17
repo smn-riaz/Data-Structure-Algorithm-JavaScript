@@ -1,5 +1,8 @@
 // Fibonacci sequence
-// The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones, usually starting with 0 and 1.
+/* The Fibonacci sequence is a series of numbers in which each number 
+is the sum of the two preceding ones, usually starting with 0 and 1.
+
+*/
 
 function fibonacci(n){
     const fib = [0,1]
@@ -18,4 +21,4 @@ console.log(fibonacci(3));
 console.log(fibonacci(7));
 
 
-// Big-O = O(n) ; linear time complexity
+// Big - O = O(n) ; linear time complexity
